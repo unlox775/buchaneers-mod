@@ -6,6 +6,7 @@ create_output_dir:
 
 # Rule to zip the bin, config, and mods directories into a zip file
 zip_modpack: create_output_dir
+	rm -f final/modpack.zip
 	zip -r final/modpack.zip bin config mods
 
 # Default target to build the zip
