@@ -1,3 +1,6 @@
 .DS_Store
 *~
 server/logs
+server/usercache.json
+server/usernamecache.json
+server/usercache.json
