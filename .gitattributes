@@ -1,0 +1,2 @@
+final/server_modpack.zip filter=lfs diff=lfs merge=lfs -text
+saves/* filter=lfs diff=lfs merge=lfs -text

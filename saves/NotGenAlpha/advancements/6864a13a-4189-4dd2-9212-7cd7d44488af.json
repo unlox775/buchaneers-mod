@@ -1,0 +1,689 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-08-24 23:52:15 -0700"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2024-08-24 23:52:15 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2024-08-24 23:52:16 -0700",
+      "rocky_shrubland": "2024-08-24 23:56:13 -0700"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "shrubland": "2024-08-24 23:52:16 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2024-08-25 00:01:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-08-25 00:01:05 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2024-08-25 00:01:05 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2024-08-25 00:01:11 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2024-08-25 00:01:11 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2024-08-25 00:01:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-08-25 00:01:11 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-08-25 00:01:11 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_jacaranda_planks": "2024-08-25 00:01:11 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2024-08-25 00:01:11 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-08-25 00:01:11 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-08-25 00:01:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-08-25 00:01:11 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2024-08-25 00:01:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-08-25 00:01:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-08-25 00:01:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-08-25 00:01:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-08-25 00:01:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-08-25 00:01:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-08-25 00:01:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-08-25 00:01:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-08-25 00:02:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-08-25 00:02:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-08-25 00:02:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-08-25 00:02:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_grill": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_grill": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_grill": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_grill": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_grill": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/tools/spatula": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_trampoline": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/fridge_dark": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_grill": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_trampoline": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_grill": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/fridge_light": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_trampoline": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_trampoline": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_trampoline": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_grill": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_trampoline": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_trampoline": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_trampoline": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/post_box": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_grill": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_trampoline": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_trampoline": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_grill": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_trampoline": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_grill": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_trampoline": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_trampoline": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_trampoline": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_grill": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_grill": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_grill": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_trampoline": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_trampoline": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_grill": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_grill": {
+    "criteria": {
+      "has_iron": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2024-08-25 00:02:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-08-25 00:03:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-08-25 00:03:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-08-25 00:03:07 -0700"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2024-08-25 00:07:55 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-08-25 00:30:47 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-08-25 00:30:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-08-25 00:30:47 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2024-08-25 00:30:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-08-25 00:30:47 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-08-25 00:30:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-08-25 00:30:47 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-08-25 00:30:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-08-25 00:30:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-08-25 00:30:47 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-08-25 00:30:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-08-25 00:30:47 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-08-25 00:30:47 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-08-25 00:30:47 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-08-25 00:30:47 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-08-25 00:30:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-08-25 00:30:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2024-08-25 00:31:28 -0700",
+      "minecraft:deep_dark": "2024-08-25 00:26:49 -0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-08-25 00:30:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-08-25 00:30:47 -0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
