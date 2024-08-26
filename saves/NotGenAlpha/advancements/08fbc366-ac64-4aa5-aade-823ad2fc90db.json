@@ -15,8 +15,10 @@
     "criteria": {
       "shrubland": "2024-08-24 21:29:56 -0700",
       "rocky_shrubland": "2024-08-24 23:18:59 -0700",
+      "scrubland": "2024-08-25 16:52:10 -0700",
       "orchard": "2024-08-24 23:26:07 -0700",
       "lavender_forest": "2024-08-24 22:01:01 -0700",
+      "mediterranean_forest": "2024-08-25 16:50:32 -0700",
       "dune_beach": "2024-08-25 16:48:34 -0700",
       "pasture": "2024-08-24 23:12:56 -0700",
       "lavender_field": "2024-08-24 22:42:27 -0700",
@@ -278,9 +280,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-08-25 16:56:12 -0700",
       "minecraft:sunflower_plains": "2024-08-24 23:38:07 -0700",
       "minecraft:river": "2024-08-24 23:13:13 -0700",
+      "minecraft:lukewarm_ocean": "2024-08-25 16:55:39 -0700",
       "minecraft:stony_shore": "2024-08-25 00:07:25 -0700",
+      "minecraft:ocean": "2024-08-25 16:55:56 -0700",
       "minecraft:deep_dark": "2024-08-24 23:22:04 -0700",
       "minecraft:plains": "2024-08-24 21:58:47 -0700"
     },
@@ -1981,6 +1986,120 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-08-25 16:47:29 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-08-25 16:55:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-08-25 16:55:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-08-25 16:55:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-08-25 16:55:31 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-08-25 16:55:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-08-25 16:55:31 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-08-25 16:55:31 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-08-25 16:55:31 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-08-25 16:55:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-08-25 16:55:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-08-25 16:55:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-08-25 16:55:31 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-08-25 16:55:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-08-25 16:55:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-08-25 16:55:31 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-08-25 16:55:31 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-08-25 16:55:31 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-08-25 16:55:31 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-08-25 16:55:31 -0700"
     },
     "done": true
   },
